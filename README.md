@@ -4,7 +4,7 @@ This is a basic one-question quiz application where users are asked a simple web
 
 The purpose of this project was to reinforce my understanding of event handling, DOM manipulation, and basic conditional logic using JavaScript. 
 
-🔗👉 click here to see the live demo-->https://nanthakumar-m.github.io/Sample_quiz-HTML-CSS-JS/
+🔗👉 click here to see the live demo-->https://nanthakumar-m.github.io/Simple_quiz-HTML-CSS-JS/
 
 ## ⚙️ Technologies Used
 
