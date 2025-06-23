@@ -20,7 +20,7 @@ The purpose of this project was to reinforce my understanding of event handling,
 
 ✅ Disable further clicks after selection
 
-## 🎯 Learning Objectives / Concepts Practiced
+## 🎯 What I Gained / Concepts Practiced
 
 ✅ Strengthened JavaScript event handling and logic building
 
